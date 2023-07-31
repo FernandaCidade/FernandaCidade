@@ -1,9 +1,7 @@
 <h1 align="center">Olá👋, eu sou Fernanda Cidade!</h1>
 <h3 align="center">Desenvolvedor Front-end| Estudante de Fullstack + Mobile pelo Senai de Informática.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandacidade&label=Profile%20views&color=0e75b6&style=flat" alt="fernandacidade" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernandacidade" alt="fernandacidade" /></a> </p>
 
 - 🔭 Trabalho como **líder do backbone VIVO**
 
