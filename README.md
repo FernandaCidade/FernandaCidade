@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cidade</h1>
+<h1 align="center">Olá 👋, Eu sou Cidade</h1>
 <h3 align="center">Desenvolvedor Front-end| Estudante de Fullstack + Mobile pelo Senai de Informática.</h3>
 
 - 🔭 Trabalho como **Líder de equipe**
