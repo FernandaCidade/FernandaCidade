@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Cidade</h1>
 <h3 align="center">Desenvolvedor Front-end| Estudante de Fullstack + Mobile pelo Senai de Informática.</h3>
 
-- 🔭 Trabalho como **Líder de equipe**
+- 🔭 Tenho experiencia como **Líder de equipe Técnica**
 
 - 🌱 Atualmente estudando **Python**
 
