@@ -1,15 +1,15 @@
 <h1 align="center">Olá 👋, Eu sou Cidade</h1>
-<h3 align="center">Desenvolvedor Front-end| Estudante de Fullstack + Mobile pelo Senai de Informática.</h3>
+<h3 align="center">Desenvolvedor FullStack | Ciências da Computação 1/8.</h3>
 
 - 🔭 Tenho experiencia como **Líder de equipe Técnica**
 
 - 🌱 Atualmente estudando **Python**
 
-- 👯 Estou colaborando no projeto [SecurePass](https://github.com/orgs/SecurePass-Senai/dashboard)
+- 👯 Estou colaborando no projeto [SecurePass](https://github.com/orgs/SecurePass-Senai/dashboard) como Desenvolvedor da API em Python
 
 - 🤝 Formada em **Técnologia em Banco de dados - UNICID**
 
-- 👨‍💻 Todos meus projetos estão disponíveis em [https://fernandacidade.github.io/Site_Apresentacao/Home](https://fernandacidade.github.io/Site_Apresentacao/Home)
+- 👨‍💻 Cursado Graduação em Ciencia da Computação - Faculdade Descomplica
 
 - 📫 Contate-me via e-mail **fernanda.cidade@outlook.com**
 
