@@ -9,7 +9,7 @@
 
 - 🤝 Formada em **Técnologia em Banco de dados - UNICID**
 
-- 👨‍💻 Cursado Graduação em Ciencia da Computação - Faculdade Descomplica
+- 👨‍💻 Cursado Graduação em Ciencia da Computação 1/8 - Faculdade Descomplica
 
 - 📫 Contate-me via e-mail **fernanda.cidade@outlook.com**
 
