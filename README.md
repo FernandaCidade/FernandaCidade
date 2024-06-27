@@ -1,11 +1,9 @@
 <h1 align="center">Olá 👋, Eu sou Cidade</h1>
 <h3 align="center">Desenvolvedor FullStack | Ciências da Computação 1/8.</h3>
 
-- 🔭 Tenho experiencia como **Líder de equipe Técnica**
+- 🔭 Instrutora de Formação Profissional em Senai "Paulo Antonio Skaf"
 
-- 🌱 Atualmente estudando **Python**
-
-- 👯 Estou colaborando no projeto [SecurePass](https://github.com/orgs/SecurePass-Senai/dashboard) como Desenvolvedor da API em Python
+- 👯 Colaborei no projeto [SecurePass](https://github.com/orgs/SecurePass-Senai/dashboard) como Desenvolvedor da API em Python
 
 - 🤝 Formada em **Técnologia em Banco de dados - UNICID**
 
