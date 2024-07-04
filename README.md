@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Cidade</h1>
-<h3 align="center">Desenvolvedor FullStack | Ciências da Computação 1/8.</h3>
+<h3 align="center">Desenvolvedor FullStack</h3>
 
 - 🔭 Instrutora de Formação Profissional em Senai "Paulo Antonio Skaf"
 
@@ -9,7 +9,6 @@
 
 - 👨‍💻 Cursado Graduação em Ciencia da Computação 1/8 - Faculdade Descomplica
 
-- 📫 Contate-me via e-mail **fernanda.cidade@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
