@@ -9,9 +9,20 @@
 
 ###
 
-<h2 align="left">Contatos</h2>
+<h2 align="left">Certificados</h2>
+
+<div align="left">
+  <a href="" target="_blank">
+    <img src="https://github.com/FernandaCidade/certificado/blob/main/azure-ai-fundamentals-600x600.png" width="60" height="60" alt="certificado"  />
+  </a>
+  
+</div>
 
 ###
+
+
+<h2 align="left">Contatos</h2>
+
 
 
 ###
