@@ -1,14 +1,22 @@
-<h1 align="left">Eai!! 👋 Eu sou Cidade</h1>
+<h1 align="left">Eai!! Eu sou Cidade 🦾</h1>
 
 ###
 <h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">✨ Programadora <br>🎯 Instrutora do Senai <br>📚 Estudante de Ciências da Computação 1/8</p>
+<p align="left">✨ Programadora <br>
+  🎯 Instrutora do Senai <br>
+  📚 Estudante de Ciências da Computação 1/8</p>
 
 ###
+<h2>🎓Formação Academica</h2>
 
+👨‍💻Técnico em Informática - ETEC de Poá<br>
+🎲Técnologo em Banco de Dados - Universidade Cidade de São Paulo(UNICID)<br>
+📖Bacharelado em Ciências da Computação - Faculdade Descomplica <br>
+
+###
 <h2 align="left">Certificados</h2>
 
 <div align="left">
@@ -28,11 +36,11 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/fernanda-murciano-cidade-681341255/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
   <a href="https://discord.com/invite/cidade6946" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/fernanda-murciano-cidade-681341255/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
 
