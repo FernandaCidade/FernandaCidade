@@ -27,12 +27,7 @@
     <img src="https://github.com/FernandaCidade/certificado/blob/main/scrum.png" width="60" height="60" alt="certificado"  />
   </a>
 
-   <a href="" target="_blank">
-    <img src="https://github.com/FernandaCidade/certificado/blob/main/logo_topnew.png" width="200" height="60" alt="certificado"  />
-  </a>
-    <a href="" target="_blank">
-    <img src="https://github.com/FernandaCidade/certificado/blob/main/senai.jpg" width="200" height="50" alt="certificado"  />
-  </a>
+ 
  </div>
 
 ###
