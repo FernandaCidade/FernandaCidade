@@ -50,3 +50,19 @@
 </div>
 
 ###
+
+
+<h2 align="left">🚀Stats</h2>
+
+
+
+###
+
+
+<div align="center">
+
+ ![FernandaCidade's Stats](https://github-readme-stats.vercel.app/api?username=FernandaCidade&theme=cobalt&show_icons=true&hide_border=true&count_private=true)<br>
+![FernandaCidade's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FernandaCidade&theme=cobalt&hide_border=true)<br>
+![FernandaCidade's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaCidade&theme=cobalt&show_icons=true&hide_border=true&layout=compact)
+
+</div>
