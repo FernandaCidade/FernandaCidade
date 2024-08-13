@@ -14,7 +14,7 @@
 
 👨‍💻Técnico em Informática - ETEC de Poá<br>
 🎲Técnologo em Banco de Dados - Universidade Cidade de São Paulo(UNICID)<br>
-📖Bacharelado em Ciências da Computação - FACULDADE DE AMERICANA - FAM <br>
+📖Bacharelado em Ciências da Computação - Centro Universitário das Faculdades Metropolitanas Unidas <br>
 🧑‍🎓CO.DE SCHOOL FULLSTACK + Mobile FGV - Senai "Paulo Skaf" <br>
 ###
 <h2 align="left">Certificados</h2>
