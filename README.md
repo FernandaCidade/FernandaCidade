@@ -32,6 +32,9 @@
  <a href="" target="_blank">
     <img src="https://github.com/FernandaCidade/certificado/blob/main/logo_topnew.png" width="150" height="60" alt="certificado"  />
   </a>
+   <a href="" target="_blank">
+    <img src="https://github.com/FernandaCidade/certificado/blob/main/google.png" width="150" height="100" alt="certificado"  />
+  </a>
  </div>
 
 ###
