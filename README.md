@@ -21,19 +21,18 @@
 
 <div align="left">
   <a href="" target="_blank">
-    <img src="https://github.com/FernandaCidade/certificado/blob/main/azure-ai-fundamentals-600x600.png" width="80" height="80" alt="certificado"  />
+    <img src="https://github.com/FernandaCidade/certificado/blob/main/azure-ai-fundamentals-600x600.png" width="100" height="100" alt="certificado"  />
   </a>
-   <a href="" target="_blank">
-    <img src="https://github.com/FernandaCidade/certificado/blob/main/scrum.png" width="60" height="60" alt="certificado"  />
-  </a>
+   
  <a href="" target="_blank">
-    <img src="https://github.com/FernandaCidade/certificado/blob/main/python.png" width="60" height="60" alt="certificado"  />
+    <img src="https://github.com/FernandaCidade/certificado/blob/main/python2.png" width="100" height="100" alt="certificado"  />
   </a>
- <a href="" target="_blank">
-    <img src="https://github.com/FernandaCidade/certificado/blob/main/logo_topnew.png" width="150" height="60" alt="certificado"  />
-  </a>
+ 
    <a href="" target="_blank">
     <img src="https://github.com/FernandaCidade/certificado/blob/main/google.png" width="150" height="100" alt="certificado"  />
+  </a>
+     <a href="" target="_blank">
+    <img src="https://github.com/FernandaCidade/certificado/blob/main/scrum.png" width="100" height="100" alt="certificado"  />
   </a>
  </div>
 
