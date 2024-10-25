@@ -6,7 +6,7 @@
 ###
 
 <p align="left">✨ Programadora Fullstack <br>
-  🎯 Instrutora do Senai <br>
+  🎯 Instrutora de Formação Profissional no Senai SP <br>
   📚 Estudante de Ciências da Computação 1/8</p>
 
 ###
@@ -14,8 +14,8 @@
 
 👨‍💻Técnico em Informática - ETEC de Poá<br>
 🎲Técnologo em Banco de Dados - Universidade Cidade de São Paulo(UNICID)<br>
-📖Bacharelado em Ciências da Computação - Centro Universitário das Faculdades Metropolitanas Unidas(FMU) <br>
 🧑‍🎓CO.DE SCHOOL FULLSTACK + Mobile FGV - Senai "Paulo Skaf" <br>
+📖Bacharelado em Ciências da Computação - Centro Universitário das Faculdades Metropolitanas Unidas(FMU) <br>
 ###
 <h2 align="left">Certificados</h2>
 
