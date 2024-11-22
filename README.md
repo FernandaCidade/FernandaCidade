@@ -34,12 +34,16 @@
    <a href="" target="_blank">
     <img src="https://github.com/FernandaCidade/certificado/blob/main/google.png" width="150" height="100" alt="certificado"  />
   </a>
+    <a href="" target="_blank">
+      <img src="https://github.com/FernandaCidade/certificado/blob/main/javascript-essentials-1.png" width="100" height="100" alt="certificado"  />
+    </a>
+     <a href="" target="_blank">
+      <img src="https://github.com/FernandaCidade/certificado/blob/41b98f15137a8a200bab17eda5c0643931fc59fe/data.png" width="100" height="100" alt="certificado"  />
+    </a>
      <a href="" target="_blank">
       <img src="https://github.com/FernandaCidade/certificado/blob/main/scrum.png" width="100" height="100" alt="certificado"  />
     </a>
-     <a href="" target="_blank">
-      <img src="https://github.com/FernandaCidade/certificado/blob/main/javascript-essentials-1.png" width="100" height="100" alt="certificado"  />
-    </a>
+   
  </div>
 
 ###
