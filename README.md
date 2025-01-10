@@ -7,7 +7,7 @@
 
 <p align="left">✨ Programadora Fullstack <br>
   🎯 Instrutora de Formação Profissional no Senai SP <br>
-  📚 Estudante de Ciências da Computação 1/8</p>
+  📚 Estudante de Ciências da Computação 2/8</p>
 
 ###
 <h2>🎓Formação Academica</h2>
