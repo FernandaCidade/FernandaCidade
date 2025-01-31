@@ -58,8 +58,9 @@
   <a href="https://discord.com/invite/cidade6946" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/fernanda-murciano-cidade-681341255/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+     <a href="https://www.linkedin.com/in/fernanda-murciano-cidade-681341255/" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  width="60" height="60" />
+   
   </a>
 
 </div>
@@ -69,15 +70,6 @@
 
 <h2 align="left">🚀Stats</h2>
 
-
-
 ###
-
-
-<div align="center">
-
- ![FernandaCidade's Stats](https://github-readme-stats.vercel.app/api?username=FernandaCidade&theme=cobalt&show_icons=true&hide_border=true&count_private=true)<br>
-![FernandaCidade's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FernandaCidade&theme=cobalt&hide_border=true)<br>
-![FernandaCidade's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaCidade&theme=cobalt&show_icons=true&hide_border=true&layout=compact)
-
-</div>
+![FernandaCidade's Stats](https://github-readme-stats.vercel.app/api?username=FernandaCidade&theme=react&show_icons=true&hide_border=false&count_private=false)<br>
+![FernandaCidade's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaCidade&theme=react&show_icons=true&hide_border=false&layout=compact)
