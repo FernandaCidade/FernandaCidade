@@ -54,20 +54,29 @@
 
 ###
 
-<div align="left">
-  <a href="https://discord.com/invite/cidade6946" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-     <a href="https://www.linkedin.com/in/fernanda-murciano-cidade-681341255/" target="_blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  width="60" height="60" />
-   
-  </a>
 
-</div>
+<p align="left">
+  <a href="https://discord.com/invite/cidade6946" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="https://www.linkedin.com/in/fernanda-murciano-cidade-681341255/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 ###
 
 
+
+###
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,angular,mysql,py,js,figma" />
+  </a>
+</p>
+###
 <h2 align="left">🚀Stats</h2>
 
 ###
