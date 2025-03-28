@@ -50,11 +50,6 @@
 
 <h2 align="left">Contatos</h2>
 
-
-
-###
-
-
 <p align="left">
   <a href="https://discord.com/invite/cidade6946" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
@@ -66,16 +61,12 @@
 
 ###
 
-
-
-###
-
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,angular,mysql,py,js,figma" />
   </a>
 </p>
+
 ###
 <h2 align="left">🚀Stats</h2>
 
