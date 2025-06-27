@@ -63,7 +63,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,angular,mysql,py,js,nodejs,ts,react,figma,html,css,postman" />
+    <img src="https://skillicons.dev/icons?i=git,angular,mysql,py,js,nodejs,ts,react,figma,html,css,postman,java,eclipse" />
   </a>
 </p>
 
