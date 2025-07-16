@@ -2,11 +2,17 @@
 
 ###
 
+<div align="center">
+ <a href="https://imgflip.com/i/a0dm0r"><img src="https://i.imgflip.com/a0dm0r.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
+</div>
+
+###
+
 <h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">✨ Programadora Fullstack<br>🎯 Instrutora de Formação Profissional no Senai SP<br>📚 Estudante de Ciências da Computação 2/8</p>
+<p align="left">✨ Programadora Fullstack<br>🎯 Instrutora de Formação Profissional no Senai SP<br>📚 Estudante de Ciências da Computação 3/8</p>
 
 ###
 
@@ -45,7 +51,6 @@
    
  </div>
 
-###
 
 <h2 align="left">Contato</h2>
 
@@ -89,9 +94,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FernandaCidade/FernandaCidade/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FernandaCidade/FernandaCidade/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FernandaCidade/FernandaCidade/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/FernandaCidade/profile-readme-generator/blob/main/public/assets/pacman.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/FernandaCidade/profile-readme-generator/blob/main/public/assets/pacman.svg">
+  <img alt="pacman contribution graph" src="https://github.com/FernandaCidade/profile-readme-generator/blob/main/public/assets/pacman.svg">
 </picture>
 
 ###
