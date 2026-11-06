@@ -1,107 +1,104 @@
-<h1 align="center">Eai! Eu sou Cidade!🦾</h1>
+<h1 align="center">Oi! Eu sou a Cidade 🎮</h1>
 
-###
+<p align="center">
+  <b>Dev em transição para Game Development</b><br>
+  Instrutora de Programação no Senai SP · Estudante de Ciência da Computação
+</p>
 
-<div align="center">
- <a href="https://imgflip.com/i/a0dm0r"><img src="https://i.imgflip.com/a0dm0r.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
-</div>
-
-###
-
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left">✨ Programadora Fullstack<br>🎯 Instrutora de Formação Profissional no Senai SP<br>📚 Estudante de Ciências da Computação 3/8</p>
-
-###
-
-<h2 align="left">Formação Academica</h2>
-
-###
-
-<p align="left">👨‍💻Técnico em Informática - ETEC de Poá<br>🎲Técnologo em Banco de Dados - Universidade Cidade de São Paulo(UNICID)<br>🧑‍🎓CO.DE SCHOOL FULLSTACK + Mobile FGV - Senai "Paulo Skaf"<br>📖Bacharelado em Ciências da Computação - Centro Universitário das Faculdades Metropolitanas Unidas(FMU)</p>
-
-###
-
-<h2 align="left">Certificação</h2>
-<div align="left">
-  <a href="" target="_blank">
-    <img src="https://github.com/FernandaCidade/certificado/blob/main/azure-ai-fundamentals-600x600.png" width="100" height="100" alt="certificado"  />
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/fernanda-murciano-cidade-681341255/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn">
    
- <a href="" target="_blank">
-    <img src="https://github.com/FernandaCidade/certificado/blob/main/python2.png" width="100" height="100" alt="certificado"  />
   </a>
-   <a href="" target="_blank">
-    <img src="https://github.com/FernandaCidade/certificado/blob/main/python3.png" width="100" height="100" alt="certificado"  />
-   </a>
-    <a href="" target="_blank">
-      <img src="https://github.com/FernandaCidade/certificado/blob/main/javascript-essentials-1.png" width="100" height="100" alt="certificado"  />
-    </a>
-     <a href="" target="_blank">
-      <img src="https://github.com/FernandaCidade/certificado/blob/41b98f15137a8a200bab17eda5c0643931fc59fe/data.png" width="100" height="100" alt="certificado"  />
-    </a>
-    <a href="" target="_blank">
-    <img src="https://github.com/FernandaCidade/certificado/blob/main/google.png" width="150" height="100" alt="certificado"  />
+  <!-- Se tiver itch.io, descomente e troque SEU-USUARIO:
+  <a href="https://SEU-USUARIO.itch.io">
+    <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io">
   </a>
-     <a href="" target="_blank">
-      <img src="https://github.com/FernandaCidade/certificado/blob/main/scrum.png" width="100" height="100" alt="certificado"  />
-    </a>
-   
- </div>
+  -->
+  <!-- Se quiser mostrar e-mail, descomente e troque:-->
+  <a href="mailto:fernanda.cidade@outlook.com">
+   <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail Outlook"> </a>
+  
 
 
-<h2 align="left">Contato</h2>
+</p>
 
-###
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/fernanda-murciano-cidade-681341255/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+## 🕹️ Sobre mim
 
-###
+Sou desenvolvedora fullstack e hoje ensino programação no Senai SP. Estou migrando minha carreira para **desenvolvimento de jogos**, e este perfil mostra esse caminho: estudos, protótipos e jogos que estou construindo.
 
-<h2 align="left">Tecnologias</h2>
+- 🎯 **Objetivo:** atuar como desenvolvedora de jogos (gameplay, programação e ferramentas)
+- 🌱 **Estudando agora:** Unity e C#
+- 👩‍🏫 **No dia a dia:** ensino lógica de programação, Python, Java, banco de dados e desenvolvimento fullstack
+- 📚 **Graduação:** Ciência da Computação (FMU), cursando
 
-###
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-</div>
+## 🎮 Projetos em destaque
 
-###
+### 🟢 [jogo de plataforma 2D](https://github.com/FernandaCidade/plataforma-2d-gamemaker.git)
+Jogo de plataforma 2D feito em **GameMaker**.
+Jogo de plataforma 2D feito em GameMaker com GML, criado para estudar programação de jogos: movimentação, colisões e lógica de gameplay.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/FernandaCidade/profile-readme-generator/blob/main/public/assets/pacman.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/FernandaCidade/profile-readme-generator/blob/main/public/assets/pacman.svg">
-  <img alt="pacman contribution graph" src="https://github.com/FernandaCidade/profile-readme-generator/blob/main/public/assets/pacman.svg">
-</picture>
+### 🟠 [Mini Zelda](https://github.com/FernandaCidade/mini-zelda-java.git)
+Mini-jogo de aventura inspirado em Zelda, feito em **Java**.
+Jogo 2D de aventura inspirado em The Legend of Zelda, feito em Java com Java 2D, sem engine. Foi criado para aplicar programação orientada a objetos no desenvolvimento de jogos.
 
-###
+🧝 Movimentação do personagem <br>
+👾 Inimigos<br>
+🏹 Combate com tiros<br>
+🗺️ Mapa por tiles<br>
+🎥 Vídeo de gameplay no README do projeto<br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FernandaCidade&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandaCidade&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+Java · Java 2D · POO
 
-###
+<!--
+### 🔜 Próximo: primeiro jogo em Unity (C#)
+Em desenvolvimento. Vou atualizar esta seção quando houver uma versão jogável.
+ -->
+---
+
+## 🛠️ Tecnologias
+
+**Games**
+
+![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity_(em_estudo)-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23_(em_estudo)-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+**Programação, dados e web**
+
+[![Skills](https://skillicons.dev/icons?i=py,java,js,ts,nodejs,react,angular,mysql,git,figma)](https://skillicons.dev)
+
+---
+
+## 🎓 Formação
+
+- 📖 **Bacharelado em Ciência da Computação** · FMU (cursando, 3º de 8 semestres)
+- 🗄️ **Tecnólogo em Banco de Dados** · UNICID
+- 💻 **Fullstack + Mobile** · CO.DE School (FGV / Senai "Paulo Skaf")
+- 🖥️ **Técnico em Informática** · ETEC de Poá
+
+---
+
+## 📜 Certificações
+
+<!-- Dica: troque o link de cada imagem pela URL da credencial oficial. -->
+<a href="https://github.com/FernandaCidade/certificado"><img src="https://github.com/FernandaCidade/certificado/raw/main/azure-ai-fundamentals-600x600.png" width="90" alt="Azure AI Fundamentals"></a>
+<a href="https://github.com/FernandaCidade/certificado"><img src="https://github.com/FernandaCidade/certificado/raw/main/python2.png" width="90" alt="Python"></a>
+<a href="https://github.com/FernandaCidade/certificado"><img src="https://github.com/FernandaCidade/certificado/raw/main/python3.png" width="90" alt="Python"></a>
+<a href="https://github.com/FernandaCidade/certificado"><img src="https://github.com/FernandaCidade/certificado/raw/main/javascript-essentials-1.png" width="90" alt="JavaScript Essentials"></a>
+<a href="https://github.com/FernandaCidade/certificado"><img src="https://github.com/FernandaCidade/certificado/raw/41b98f15137a8a200bab17eda5c0643931fc59fe/data.png" width="90" alt="Data"></a>
+<a href="https://github.com/FernandaCidade/certificado"><img src="https://github.com/FernandaCidade/certificado/raw/main/google.png" width="90" alt="Google"></a>
+<a href="https://github.com/FernandaCidade/certificado"><img src="https://github.com/FernandaCidade/certificado/raw/main/scrum.png" width="90" alt="Scrum"></a>
+
+---
+
+## 📈 Atividade
+
+![pacman contribution graph](https://github.com/FernandaCidade/profile-readme-generator/raw/main/public/assets/pacman.svg)
+
+<p align="center"><i>Insert coin to continue... 🪙</i></p>
